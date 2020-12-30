@@ -1,0 +1,12 @@
+name: climate_analysis
+title: climate_analysis
+username:
+account: burnhc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3434980
+bundleId: 4040421
+url: https://burnhc.shinyapps.io/climate_analysis/
+when: 1609286833.04624
+asMultiple: FALSE
+asStatic: FALSE
